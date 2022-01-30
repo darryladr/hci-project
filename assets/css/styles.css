@@ -546,9 +546,6 @@ img {
 
 /* For tall screen */
 @media screen and (min-height: 721px) {
-	/* .home__container {
-		height: 640px;
-	} */
 	.home__img {
 		width: 65vh;
 		right: 1rem;
